@@ -17,4 +17,3 @@ is_https : URL이 https로 시작되는지 여부
 domain_reg_length : 도메인 등록 기간을 나타냄 (확인 불가능한 값)   
 has_favicon : 파비콘(Favicon)이 URL의 도메인과 다른 도메인에서 로드되었는지 여부   
 non_standard_port : 비표준 포트를 사용하는지 여부   
-
