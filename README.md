@@ -5,7 +5,7 @@ The KISA data set was preprocessed, and the reference document is the 'Phishing 
 
 
 # Meaning
-Nor/Mal : 정상(Normal)과 비정상(Abnormal)을 나타내는 값   
+Nor/Mal : 정상(Normal '0')과 악성(malicious '1')을 나타내는 값   
 has_ip : URL에 IP 주소가 포함되어 있는지 여부 (ex : http://125.98.3.123/fake.html)   
 long_url : URL 길이를 나타내는 값   
 is_shortened : URL이 TinyURL과 같은 URL 축소 서비스를 통해 짧아졌는지 여부   
