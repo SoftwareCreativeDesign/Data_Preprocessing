@@ -4,7 +4,7 @@ Processed_URL_Data_Version_01
 The KISA data set was preprocessed, and the reference document is the 'Phishing Websites Features.docx'. This document consists of 11 features and a configuration that can distinguish between normal and malicious for reference.
 
 
-# 각 행의 값들의 의미
+# Meaning
 Nor/Mal : 정상(Normal)과 비정상(Abnormal)을 나타내는 값   
 has_ip : URL에 IP 주소가 포함되어 있는지 여부 (ex : http://125.98.3.123/fake.html)   
 long_url : URL 길이를 나타내는 값   
