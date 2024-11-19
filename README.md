@@ -1,7 +1,9 @@
 # Data_Preprocessing
 
 The reference document, 'Phishing Websites Features.docx', consists of 11 functions and configurations that distinguish between normal and malicious websites.   
+
 Processed_URL_Data_Version_01 (KISA)   
+Processed_URL_Data_Version_02 (Kaggle)   
 
 
 # Meaning
