@@ -1,6 +1,6 @@
 # Data_Preprocessing
 
-The reference document, 'Phishing Website Characteristics.docx', consists of 11 functions and configurations that distinguish between normal and malicious websites.   
+The reference document, 'Phishing Websites Features.docx', consists of 11 functions and configurations that distinguish between normal and malicious websites.   
 Processed_URL_Data_Version_01 (KISA)   
 
 
