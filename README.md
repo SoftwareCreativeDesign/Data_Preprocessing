@@ -1,7 +1,7 @@
 # Data_Preprocessing
 
-Processed_URL_Data_Version_01   
-The KISA data set was preprocessed, and the reference document is the 'Phishing Websites Features.docx'. This document consists of 11 features and a configuration that can distinguish between normal and malicious for reference.
+The reference document, 'Phishing Website Characteristics.docx', consists of 11 functions and configurations that distinguish between normal and malicious websites.   
+Processed_URL_Data_Version_01 (KISA)   
 
 
 # Meaning
